@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "68DB9AC4213B9779002E35C3"
                BuildableName = "Seam3.framework"
-               BlueprintName = "Seam3 (watchOS)"
+               BlueprintName = "Seam3 watchOS"
                ReferencedContainer = "container:Seam3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "68DB9AC4213B9779002E35C3"
             BuildableName = "Seam3.framework"
-            BlueprintName = "Seam3 (watchOS)"
+            BlueprintName = "Seam3 watchOS"
             ReferencedContainer = "container:Seam3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "68DB9AC4213B9779002E35C3"
             BuildableName = "Seam3.framework"
-            BlueprintName = "Seam3 (watchOS)"
+            BlueprintName = "Seam3 watchOS"
             ReferencedContainer = "container:Seam3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

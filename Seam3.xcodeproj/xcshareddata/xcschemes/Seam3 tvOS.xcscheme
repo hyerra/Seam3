@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "682CE15D213C18EC0006C2C7"
                BuildableName = "Seam3.framework"
-               BlueprintName = "Seam3 (tvOS)"
+               BlueprintName = "Seam3 tvOS"
                ReferencedContainer = "container:Seam3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "682CE15D213C18EC0006C2C7"
             BuildableName = "Seam3.framework"
-            BlueprintName = "Seam3 (tvOS)"
+            BlueprintName = "Seam3 tvOS"
             ReferencedContainer = "container:Seam3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "682CE15D213C18EC0006C2C7"
             BuildableName = "Seam3.framework"
-            BlueprintName = "Seam3 (tvOS)"
+            BlueprintName = "Seam3 tvOS"
             ReferencedContainer = "container:Seam3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

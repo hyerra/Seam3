@@ -196,9 +196,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		682CE146213C188C0006C2C7 /* Seam3 (macOS) */ = {
+		682CE146213C188C0006C2C7 /* Seam3 macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 682CE158213C188C0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 (macOS)" */;
+			buildConfigurationList = 682CE158213C188C0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 macOS" */;
 			buildPhases = (
 				682CE147213C188C0006C2C7 /* Sources */,
 				682CE156213C188C0006C2C7 /* Frameworks */,
@@ -207,14 +207,14 @@
 			);
 			dependencies = (
 			);
-			name = "Seam3 (macOS)";
+			name = "Seam3 macOS";
 			productName = Classes;
 			productReference = 682CE15B213C188C0006C2C7 /* Seam3.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		682CE15D213C18EC0006C2C7 /* Seam3 (tvOS) */ = {
+		682CE15D213C18EC0006C2C7 /* Seam3 tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 682CE16F213C18EC0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 (tvOS)" */;
+			buildConfigurationList = 682CE16F213C18EC0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 tvOS" */;
 			buildPhases = (
 				682CE15E213C18EC0006C2C7 /* Sources */,
 				682CE16D213C18EC0006C2C7 /* Frameworks */,
@@ -223,14 +223,14 @@
 			);
 			dependencies = (
 			);
-			name = "Seam3 (tvOS)";
+			name = "Seam3 tvOS";
 			productName = Classes;
 			productReference = 682CE172213C18EC0006C2C7 /* Seam3.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		68DB9AC4213B9779002E35C3 /* Seam3 (watchOS) */ = {
+		68DB9AC4213B9779002E35C3 /* Seam3 watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 68DB9AD6213B9779002E35C3 /* Build configuration list for PBXNativeTarget "Seam3 (watchOS)" */;
+			buildConfigurationList = 68DB9AD6213B9779002E35C3 /* Build configuration list for PBXNativeTarget "Seam3 watchOS" */;
 			buildPhases = (
 				68DB9AC5213B9779002E35C3 /* Sources */,
 				68DB9AD4213B9779002E35C3 /* Frameworks */,
@@ -239,14 +239,14 @@
 			);
 			dependencies = (
 			);
-			name = "Seam3 (watchOS)";
+			name = "Seam3 watchOS";
 			productName = Classes;
 			productReference = 68DB9AD9213B9779002E35C3 /* Seam3.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C1E7E7C11FF8F1BA00F44A5A /* Seam3 (iOS) */ = {
+		C1E7E7C11FF8F1BA00F44A5A /* Seam3 iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C1E7E7D11FF8F1BA00F44A5A /* Build configuration list for PBXNativeTarget "Seam3 (iOS)" */;
+			buildConfigurationList = C1E7E7D11FF8F1BA00F44A5A /* Build configuration list for PBXNativeTarget "Seam3 iOS" */;
 			buildPhases = (
 				C1E7E7C21FF8F1BA00F44A5A /* Sources */,
 				C1E7E7D01FF8F1BA00F44A5A /* Frameworks */,
@@ -255,7 +255,7 @@
 			);
 			dependencies = (
 			);
-			name = "Seam3 (iOS)";
+			name = "Seam3 iOS";
 			productName = Classes;
 			productReference = 6844E479213ADDDD00A8F696 /* Seam3.framework */;
 			productType = "com.apple.product-type.framework";
@@ -295,10 +295,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C1E7E7C11FF8F1BA00F44A5A /* Seam3 (iOS) */,
-				68DB9AC4213B9779002E35C3 /* Seam3 (watchOS) */,
-				682CE146213C188C0006C2C7 /* Seam3 (macOS) */,
-				682CE15D213C18EC0006C2C7 /* Seam3 (tvOS) */,
+				C1E7E7C11FF8F1BA00F44A5A /* Seam3 iOS */,
+				68DB9AC4213B9779002E35C3 /* Seam3 watchOS */,
+				682CE146213C188C0006C2C7 /* Seam3 macOS */,
+				682CE15D213C18EC0006C2C7 /* Seam3 tvOS */,
 			);
 		};
 /* End PBXProject section */
@@ -709,7 +709,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		682CE158213C188C0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 (macOS)" */ = {
+		682CE158213C188C0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682CE159213C188C0006C2C7 /* Debug */,
@@ -718,7 +718,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		682CE16F213C18EC0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 (tvOS)" */ = {
+		682CE16F213C18EC0006C2C7 /* Build configuration list for PBXNativeTarget "Seam3 tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682CE170213C18EC0006C2C7 /* Debug */,
@@ -727,7 +727,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		68DB9AD6213B9779002E35C3 /* Build configuration list for PBXNativeTarget "Seam3 (watchOS)" */ = {
+		68DB9AD6213B9779002E35C3 /* Build configuration list for PBXNativeTarget "Seam3 watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68DB9AD7213B9779002E35C3 /* Debug */,
@@ -736,7 +736,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		C1E7E7D11FF8F1BA00F44A5A /* Build configuration list for PBXNativeTarget "Seam3 (iOS)" */ = {
+		C1E7E7D11FF8F1BA00F44A5A /* Build configuration list for PBXNativeTarget "Seam3 iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C1E7E7D21FF8F1BA00F44A5A /* Debug */,
